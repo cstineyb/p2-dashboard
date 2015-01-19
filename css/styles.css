@@ -9,7 +9,9 @@
 }
 
 /*PROGRESS PAGE*/
-
+body.degree div.container {
+	padding:30px;
+}
 
 .progress{
 	width:300px;
