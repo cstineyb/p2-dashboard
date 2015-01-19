@@ -9,6 +9,10 @@
 }
 
 /*PROGRESS PAGE*/
+
+body.degree {
+	background-color: #c8bba6;
+}
 body.degree div.container {
 	padding:30px;
 }
