@@ -1,7 +1,25 @@
 .profile {
 	background:orange;
 }
+
+/*BALANCE PAGE*/
 .balance h1 {
 	color:orange;
 	font-size:3em;
+}
+
+/*PROGRESS PAGE*/
+
+
+.progress{
+	width:300px;
+}
+
+div.ui.progress.success .bar {
+	width:290px;
+}
+
+div.ui.indicating.progress .bar {
+	width: 190px;
+	background-color: darkorange;
 }
