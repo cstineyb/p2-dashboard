@@ -3,6 +3,10 @@
 }
 
 /*BALANCE PAGE*/
+
+body.balance {
+	background-color: #18292d;
+}
 .balance h1 {
 	color:orange;
 	font-size:3em;
