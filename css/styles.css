@@ -4,12 +4,12 @@
 
 /*BALANCE PAGE*/
 
-body.balance {
+tbody {
 	background-color: #18292d;
 }
 .balance h1 {
-	color:orange;
-	font-size:3em;
+	color:firebrick;
+	font-size:2em;
 }
 
 /*PROGRESS PAGE*/
