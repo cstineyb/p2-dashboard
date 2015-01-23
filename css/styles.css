@@ -113,8 +113,8 @@ div.ui.indicating.progress .bar {
 }
 /*REGISTRATION PAGE*/
 body.registration div.container {
-	width:510px;
-	padding:10px;
+	width:550px;
+	padding:30px;
 	border: solid 1px;
 	border-radius: 3px;
 	font-weight: bold;
