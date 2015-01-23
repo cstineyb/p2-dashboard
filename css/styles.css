@@ -11,6 +11,29 @@ tbody {
 	color:firebrick;
 	font-size:2em;
 }
+/*WELCOME PAGE*/
+
+body.welcome div.container{
+	padding:25px 15px;
+	color: #c8bba6;
+	background-color: #2e302f;
+
+}
+body.welcome h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700;
+	font-size: 4em;
+	display:inline-block;
+	padding: 15px;
+}
+
+body div.column {
+	float:right;
+}
+
+.welcome .settings.icon {
+	font-size: 2em;
+}
 
 
 /*CANVAS PAGE*/
@@ -74,3 +97,5 @@ div.ui.indicating.progress .bar {
 	width: 190px;
 	background-color: darkorange;
 }
+
+
