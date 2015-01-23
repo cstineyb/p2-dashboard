@@ -12,15 +12,18 @@ tbody {
 	color:firebrick;
 	font-size:1.25em;
 }
-/*STORE PAGE*/
+
+body.store div.container div.ui.vertical.menu{
+	width:300px;
+
+}
+
 body.store div.container{
 	padding:25px 15px;
 	color: #c8bba6;
 	background-color: #2e302f;
 
 }
-
-
 /*WELCOME PAGE*/
 
 body.welcome div.container{
