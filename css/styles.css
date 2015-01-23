@@ -11,6 +11,31 @@ tbody {
 	color:firebrick;
 	font-size:2em;
 }
+
+
+/*CANVAS PAGE*/
+
+body.canvas div.container{
+	background-color: #c8bba6;
+	padding:25px 15px;
+}
+
+div.ui.vertical.menu {
+	width:500px;
+}
+body.canvas h1 {
+	display:none;
+}
+body.canvas img {
+	border-radius: 3px;
+}
+ body.canvas a {
+	font-weight: bold;
+}
+
+
+
+
 /*MAIL PAGE*/
 
 body.mail div.container{
