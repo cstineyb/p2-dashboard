@@ -55,7 +55,9 @@ body.canvas img {
  body.canvas a {
 	font-weight: bold;
 }
-
+body.canvas span {
+	text-align: right;
+}
 
 
 
