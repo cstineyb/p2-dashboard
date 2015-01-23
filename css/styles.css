@@ -111,5 +111,16 @@ div.ui.indicating.progress .bar {
 	width: 190px;
 	background-color: darkorange;
 }
+/*REGISTRATION PAGE*/
+body.registration div.container {
+	width:450px;
+	padding:10px;
+	border: solid 1px;
+	border-radius: 3px;
+	font-weight: bold;
+}
+
+
+
 
 
