@@ -24,6 +24,9 @@ div.ui.large.vertical.menu {
 body.mail h1 {
 	display:none;
 }
+body.mail img {
+	border-radius: 3px;
+}
 
 /*PROGRESS PAGE*/
 
