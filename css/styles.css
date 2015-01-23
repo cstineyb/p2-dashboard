@@ -11,6 +11,16 @@ tbody {
 	color:firebrick;
 	font-size:2em;
 }
+/*MAIL PAGE*/
+
+body.mail div.container{
+	background-color: #c8bba6;
+	padding:15px;
+}
+
+div.ui.large.vertical.menu {
+	width:400px;
+}
 
 /*PROGRESS PAGE*/
 
